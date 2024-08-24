@@ -79,9 +79,9 @@ To package apps for the local platform:
 `yarn package` or `npm run package` 
 ```
 
-### Enjoy it 😄
+## Enjoy it 😄
 
-## MIT License
+### MIT License
 
 
 
