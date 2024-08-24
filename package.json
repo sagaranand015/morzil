@@ -1,5 +1,5 @@
 {
-  "description": "Berry, An app of scalable desktop dashboard",
+  "description": "Berry, an open-source Electron-based dashboard app, written in javascript and react.js.",
   "keywords": [
     "berry",
     "dashboard",
@@ -13,19 +13,19 @@
     "hot",
     "reload"
   ],
-  "homepage": "https://github.com/electron-react-boilerplate/electron-react-boilerplate#readme",
+  "homepage": "https://github.com/12343954/electron-berry-free#readme",
   "bugs": {
-    "url": "https://github.com/electron-react-boilerplate/electron-react-boilerplate/issues"
+    "url": "https://github.com/12343954/electron-berry-free/issues"
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/electron-react-boilerplate/electron-react-boilerplate.git"
+    "url": "git+https://github.com/12343954/electron-berry-free.git"
   },
   "license": "MIT",
   "author": {
     "name": "Cooloo AI",
-    "email": "alucard.guo@gmail.com",
-    "url": "https://coolooai.com/electron/berry-lite"
+    "email": "",
+    "url": "https://github.com/12343954/electron-berry-free"
   },
   "contributors": [
     {
@@ -285,9 +285,6 @@
       "owner": "electron-react-boilerplate",
       "repo": "electron-react-boilerplate"
     }
-  },
-  "collective": {
-    "url": "https://opencollective.com/electron-react-boilerplate-594"
   },
   "devEngines": {
     "node": ">=14.x",
