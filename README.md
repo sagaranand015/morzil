@@ -43,8 +43,6 @@ uses <a href="https://electron.atom.io/">Electron</a>, <a href="https://facebook
 
 <br>
 
-
-
 ## Install
 
 ```
@@ -62,22 +60,25 @@ $ cd your-project-name
 ```
 $ `yarn` or `npm install`
 ```
+<br>
 
 ## Starting Development
 
 Start the app in the `dev` environment:
 
 ```bash
-`yarn start` or `npm start`
+$ `yarn start` or `npm start`
 ```
+<br>
 
 ## Packaging for Production
 
 To package apps for the local platform:
 
 ```bash
-`yarn package` or `npm run package` 
+$ `yarn package` or `npm run package` 
 ```
+<br>
 
 ## Enjoy it 😄
 
